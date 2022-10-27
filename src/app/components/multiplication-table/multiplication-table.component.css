@@ -1,0 +1,18 @@
+.multiplicationTable {
+  margin: 15px;
+  white-space: pre-wrap;
+}
+
+.Mult {
+  margin-top: 25px;
+  text-align: center;
+  padding: 0px 120px 0px 120px;
+}
+
+.Mult input {
+  width: 140px;
+}
+
+.Mult div {
+  background-color: rgb(204, 204, 204);
+}

@@ -1,0 +1,10 @@
+.home {
+  margin-top: 25px;
+  text-align: center;
+  width: 100%;
+}
+
+.home p {
+  margin-bottom: 5px;
+  background-color: rgb(204, 204, 204);
+}
